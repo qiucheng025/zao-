@@ -1,7 +1,7 @@
 # AI智能换脸
 <p align="center">
   <a href="https://faceswap.dev"><img src="https://i.imgur.com/zHvjHnb.png"></img></a>
-<br />FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
+<br />FaceSwap是一个利用深度学习来识别和交换图片和视频中的人脸的工具.
 </p>
 <p align="center">
 <img src = "https://i.imgur.com/nWHFLDf.jpg"></img>
@@ -12,12 +12,12 @@
 </p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=r1jng79a5xc"><img src="https://img.youtube.com/vi/r1jng79a5xc/0.jpg"></img></a>
-<br />Jennifer Lawrence/Steve Buscemi FaceSwap using the Villain model
+<br /><br />詹妮弗·劳伦斯/史蒂夫·巴斯米·法斯瓦普使用恶棍的模型
 </p>
 
 [![Build Status](https://travis-ci.org/deepfakes/faceswap.svg?branch=master)](https://travis-ci.org/deepfakes/faceswap)
 
-Make sure you check out [INSTALL.md](INSTALL.md) before getting started.
+在开始之前，请确保安装[INSTALL.md](INSTALL.md
 
 - [deepfakes_faceswap](#deepfakesfaceswap)
 - [Manifesto](#manifesto)
@@ -79,7 +79,7 @@ FaceSwap是一个Python程序，可以在多个操作系统上运行，包括Win
 # 概述
 项目有多个入口点。你必须:
 -收集照片和/或视频
-- **Extract**张脸
+- **Extract**
 - **Train** *从照片/视频中提取的人脸模型
 - **Convert**您的源代码与模型
 
