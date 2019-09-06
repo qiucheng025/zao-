@@ -10,16 +10,12 @@
 <p align="center">
 <a href="https://www.patreon.com/bePatron?u=23238350"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png"></img></a>
 </p>
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=r1jng79a5xc"><img src="https://img.youtube.com/vi/r1jng79a5xc/0.jpg"></img></a>
-<br /><br />詹妮弗·劳伦斯/史蒂夫·巴斯米·法斯瓦普使用恶棍的模型
-</p>
 
 [![Build Status](https://travis-ci.org/deepfakes/faceswap.svg?branch=master)](https://travis-ci.org/deepfakes/faceswap)
 
 # 声明
 
-## FaceSwap 需要有道德的使用者.
+## FaceSwap 需要有道德的使用者
 
 当faceswapping首次开发并发布时，这项技术是开创性的，它是人工智能发展的一大步. 在学术界之外，它也完全被忽略了，因为代码是混乱和零碎的. 它需要对复杂的人工智能技术有一个全面的了解，并花费了大量的努力来解决它. 直到有一个人把它们组合成一个整体。它运行起来，工作起来，就像互联网上出现的新技术一样，它很快就被用来创建不合适的内容。尽管该软件最初的使用不当，但它是第一个任何人都可以通过实验下载、运行和学习的人工智能代码，而不需要数学、计算机理论、心理学等博士学位。在“深度造假”之前，这些技术就像巫术一样，只有那些能够理解深奥而又无穷复杂的书籍和论文中所描述的所有内部工作原理的人才会使用.
 
