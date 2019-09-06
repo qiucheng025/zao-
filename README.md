@@ -17,8 +17,6 @@
 
 [![Build Status](https://travis-ci.org/deepfakes/faceswap.svg?branch=master)](https://travis-ci.org/deepfakes/faceswap)
 
-在开始之前，请确保安装[INSTALL.md](INSTALL.md
-
 - [deepfakes_faceswap](#deepfakesfaceswap)
 - [Manifesto](#manifesto)
   - [FaceSwap has ethical uses.](#faceswap-has-ethical-uses)
